@@ -1,14 +1,5 @@
-# Welcome to your CDK TypeScript project
+# AWS Step Functions demo repository 
 
-This is a blank project for CDK development with TypeScript.
+This repository was created alongside [these slides](https://docs.google.com/presentation/d/11WGSKV6LAqC_-bFHb_CnXGGAEHSqL4O1WUVb7M2kamY/edit?usp=sharing) to illustrate [AWS Step Functions](https://aws.amazon.com/fr/step-functions/) features in the following (🇫🇷) presentation:
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
+[AWS Step Functions: présentation détaillée du service](https://youtu.be/3v7yft_AVuA)
